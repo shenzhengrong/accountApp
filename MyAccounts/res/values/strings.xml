@@ -1,0 +1,52 @@
+<resources>
+    
+    <string name="app_name">吕红霞</string>
+    
+    <string name="password">密码</string>
+    <string name="cancel">取消</string>
+    <string name="login">登录</string>
+    
+    <string name="name">名称：</string>
+    <string name="account">账号：</string>
+    <string name="password_tip">密码提示：</string>
+    <string name="remark">备注：</string>
+    
+    <string name="detail_title">账号详情</string>
+    <string name="list_info_title">账号列表</string>
+    
+    <string name="scan">浏览</string>
+    <string name="add">添加</string>
+    <string name="modify">修改</string>
+    <string name="delete">删除</string>
+    <string name="back">返回</string>
+    
+    <string name="operate">操作</string>
+    <string name="setting">设置</string>
+    
+    <string name="original_pwd">原密码：</string>
+    <string name="new_pwd">新密码：</string>
+    <string name="confirm_pwd">确认密码：</string>
+    <string name="confirm_modify_pwd">确认修改密码</string>
+    <string name="path">路径：</string>
+    <string name="import_info">导入账号信息</string>
+    <string name="export_info">导出账号信息</string>
+    
+    <string name="original_pwd_err">主人，输入的原始密码有误哦(⊙o⊙)</string>
+    <string name="confirm_pwd_err">主人，两次输入的密码不一致哦(⊙o⊙)</string>
+    <string name="modify_pwd_err">主人，很遗憾，密码修改失败了(⊙o⊙)</string>
+    
+    <string name="add_failed">主人，添加失败哦(⊙o⊙)</string>
+    <string name="delete_failed">主人，删除失败哦(⊙o⊙)</string>
+    <string name="update_failed">主人，更新失败哦(⊙o⊙)</string>
+    <string name="already_exist">主人，已经有一个同名账号哦(⊙_⊙)，给人家换一个名字嘛^_^</string>
+    
+    <string name="import_success">导入成功啦~\(≧▽≦)/~</string>
+    <string name="export_success">导出成功啦~\(≧▽≦)/~</string>
+    <string name="import_failed">导入成功啦~\(≧▽≦)/~</string>
+    <string name="export_failed">导出成功啦~\(≧▽≦)/~</string>
+    <string name="path_not_exist">人家找不到路径啦(⊙_⊙)</string>
+    <string name="path_exist">文件已经存在，换一个嘛\(^o^)/~</string>
+    <string name="create_file_failed">新建文件失败，再试试吧\(^o^)/~</string>
+    
+    <string name="tips_click_exit">再按一次退出</string>
+</resources>
